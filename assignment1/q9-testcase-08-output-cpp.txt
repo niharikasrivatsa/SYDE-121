@@ -1,0 +1,15 @@
+a	0
+-5	-5
+6	1
+m	1
+2	2
+s	2
+-4	6
+6	0
+d	0
+3	0
+a	0
+5	5
+m	5
+-5	-25
+Instructions:	6	Parameters:	8	Final Result:	-25

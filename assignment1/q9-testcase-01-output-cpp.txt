@@ -1,0 +1,9 @@
+a	0
+12	12
+4	16
+6	22
+2	24
+8	32
+10	42
+23	65
+Instructions:	1	Parameters:	7	Final Result:	65

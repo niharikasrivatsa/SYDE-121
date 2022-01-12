@@ -1,0 +1,11 @@
+4	0
+3	0
+a	0
+10	10
+7	17
+5	22
+m	22
+2	44
+s	44
+3	41
+Instructions:	3	Parameters:	5	Final Result:	41

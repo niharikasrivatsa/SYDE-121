@@ -1,0 +1,10 @@
+
+De Morgan's Law 1 is true  becuase:
+not(True or False) = not(True) and not(False)
+not(True) = False and True
+False = False
+
+De Morgan's Law 2 is true  becuase:
+not(True and False) = not(True) or not(False)
+not(False) = False or True
+True = True

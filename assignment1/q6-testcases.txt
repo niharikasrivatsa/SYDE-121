@@ -1,0 +1,5 @@
+01 when input is true and true
+02 when input is true and false
+03 when input is false and true
+04 when input is flase and false
+05 when input is multiple booleen expressions

@@ -1,0 +1,40 @@
+
+De Morgan's Law 1 is true  becuase:
+not(False or False) = not(False) and not(False)
+not(False) = True and True
+True = True
+
+De Morgan's Law 2 is true  becuase:
+not(False and False) = not(False) or not(False)
+not(False) = True or True
+True = True
+
+De Morgan's Law 1 is true  becuase:
+not(False or True) = not(False) and not(True)
+not(True) = True and False
+False = False
+
+De Morgan's Law 2 is true  becuase:
+not(False and True) = not(False) or not(True)
+not(False) = True or False
+True = True
+
+De Morgan's Law 1 is true  becuase:
+not(True or False) = not(True) and not(False)
+not(True) = False and True
+False = False
+
+De Morgan's Law 2 is true  becuase:
+not(True and False) = not(True) or not(False)
+not(False) = False or True
+True = True
+
+De Morgan's Law 1 is true  becuase:
+not(True or True) = not(True) and not(True)
+not(True) = False and False
+False = False
+
+De Morgan's Law 2 is true  becuase:
+not(True and True) = not(True) or not(True)
+not(True) = False or False
+False = False
