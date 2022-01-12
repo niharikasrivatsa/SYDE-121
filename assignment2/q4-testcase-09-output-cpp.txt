@@ -1,0 +1,5 @@
+abracadabra	a	true
+seratonin	x	false
+arbitrary	b	true
+this is a string	i	true
+seBasTian sTan	t	false

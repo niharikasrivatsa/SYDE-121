@@ -1,0 +1,1 @@
+my current directory is /usr/share/syde121/assignment2	/	true
