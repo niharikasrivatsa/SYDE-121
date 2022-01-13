@@ -1,0 +1,9 @@
+Left Matrix
+    -2	     1	
+     0	     4	
+Right Matrix
+     6	     5	
+    -7	     1	
+Result Matrix
+   -19	    -9	
+   -28	     4	

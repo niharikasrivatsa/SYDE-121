@@ -1,0 +1,9 @@
+Cannot multiply these matrices
+Left Matrix
+    -2	     1	
+     0	     4	
+Right Matrix
+     6	
+     5	
+    -7	
+Result Matrix
