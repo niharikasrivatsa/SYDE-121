@@ -1,0 +1,4 @@
+01 Random floating points with the difference between number of rows and number colums be 1
+02 Random floating points with  with the difference between number of rows and number colums be not 1
+03 Targets not in the matrix (negative target position)
+04 Targets not in matrix (targets larger than size of matrix)

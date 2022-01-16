@@ -1,0 +1,7 @@
+01 Positive integers 
+02 Intgers with a mix of positive and negative numbers
+03 No input data
+04 Insufficient number of integers given for standard devation formula
+05  Integers with cut porgram (\cut --fields=2)
+
+*note: all output results were checked against standard deviation calculators and other calculators to verify correctness of numbers
