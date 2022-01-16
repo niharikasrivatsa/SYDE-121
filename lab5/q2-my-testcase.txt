@@ -1,0 +1,9 @@
+declare x 42
+declare y 2
+add x y a
+subtract x y s
+* x y m
+divide x y
+display a
+display s 
+display m

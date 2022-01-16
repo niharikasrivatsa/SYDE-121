@@ -1,0 +1,4 @@
+startmatrix 
+dimensions 2 5 
+row 2.4 5.3 1 17.1 19.0 
+row 6 17 0.0 0.1 4.2 
